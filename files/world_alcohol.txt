@@ -1,0 +1,13 @@
+Years,WHO region,Country,Bevertage Types,Display Value
+1986,Western Pacific,Viet Nam,Wine,0
+1986,Western Pacific,Viet Nam,Wine,0
+1986,Western Pacific,Viet Nam,Wine,0
+1986,Western Pacific,Viet Nam,Wine,0
+1986,Western Pacific,Viet Nam,Wine,0
+1986,Western Pacific,Viet Nam,Wine,0
+1986,Western Pacific,Viet Nam,Wine,0
+1986,Western Pacific,Viet Nam,Wine,0
+1986,Western Pacific,Viet Nam,Wine,0
+1986,Western Pacific,Viet Nam,Wine,0
+1986,Western Pacific,Viet Nam,Wine,0
+1986,Western Pacific,Viet Nam,Wine,0
